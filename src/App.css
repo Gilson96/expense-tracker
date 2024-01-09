@@ -12,5 +12,12 @@
 @import './styles/Chart/ChartBar.css';
 
 body{
-    background-color: dimgray;
+    background-color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title{
+    text-align: center;
+    color:rgb(130, 91, 209);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
